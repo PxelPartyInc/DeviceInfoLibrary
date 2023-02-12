@@ -4,4 +4,6 @@
 <p> -See Device Information.</p>
 <p> -Device type (Tablet or Mobile)</p>
 <h1>Implementation</h1>
-<p>implementation 'com.github.PxelPartyInc:DeviceInfoLibrary:1.1.0_alpha01'</p>
+```groovy
+implementation 'com.github.PxelPartyInc:DeviceInfoLibrary:1.1.0_alpha01'
+```
